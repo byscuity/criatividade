@@ -49,7 +49,7 @@ body {
     clip-path: circle(0px at var(--x) var(--y));
     transition: clip-path 0.1s;
     
-    background: url('imagem.jpg');
+    background: url('tubarao.jpg');
     
     background-size: cover;
     display: flex;
